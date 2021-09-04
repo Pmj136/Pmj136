@@ -5,8 +5,6 @@
 - 🧐 I'm actively exploring the front end
 - 🌱 I’m currently learning React、TypeScript
 
-My college career is coming to an end. I speak for myself and find a job.
-
 
 <!---
 Pmj136/Pmj136 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
