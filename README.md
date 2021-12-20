@@ -1,4 +1,4 @@
-    <code>const NAME = '彭明久';</code>
+- 😁 My name is PengMingJiu (彭明久)
 - 👀 I’m interested in open source
 - 🧐 I'm actively exploring the front end
 - 🌱 Always believe that there is no problem that can not be solved
